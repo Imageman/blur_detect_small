@@ -5,4 +5,4 @@
 
 import model_reducer
 
-print(get_blur_predict('image1.jpg')) 
+print(model_reducer.get_blur_predict('image1.jpg')) 
