@@ -3,6 +3,6 @@
 
 Пример использования
 
-model_reducer
+import model_reducer
 
 print(get_blur_predict('image1.jpg')) 
