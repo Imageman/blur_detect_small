@@ -6,3 +6,5 @@
 import model_reducer
 
 print(model_reducer.get_blur_predict('image1.jpg')) 
+
+О разработке и экспериментах можно почитать тут: https://imageman72.livejournal.com/49930.html
